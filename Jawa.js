@@ -12,9 +12,10 @@ window.onscroll = () => {
 };
 
 const typed = new Typed(".multiple-text", {
-  strings: [" Calon Web Designer", " Dan Game Developer"],
+  strings: [" Web Designer", " Game Developer"],
   typeSpeed: 80,
   backSpeed: 80,
   backDelay: 1200,
   loop: true,
 });
+
